@@ -19,6 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammil-khan-uni&show_icons=true&locale=en&layout=compact" alt="muzammil-khan-uni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammil-khan-uni&show_icons=true&locale=en" alt="muzammil-khan-uni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-khan-uni&" alt="muzammil-khan-uni" /></p>
