@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-khan-uni&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil-khan-uni" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-khan-uni" alt="muzammil-khan-uni" /></a> </p>
 
 - 📫  Reach me using **muz56565@gmail.com**
 
