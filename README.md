@@ -1,11 +1,14 @@
 <h1 align="center">Hi there👋, I'm M. Muzammil Khan</h1>
 <h3 align="center">🎓 7th Semester Software Engineering Student at NUML, Islamabad</h3>
+<h3 align="center">💻 Full Stack Web Developer | 🧠 AI Enthusiast | 📱 Flutter & Android App Developer </h3>
+
+<p  align="center">Enthusiastic and highly motivated Software Engineering student (7th semester) at NUML with hands-on experience in Full-Stack Web Development, Android/Flutter development, object-oriented programming, and problem-solving. Passionate about building user-friendly applications, learning new technologies, and contributing to impactful software projects.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-khan-uni&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil-khan-uni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-khan-uni" alt="muzammil-khan-uni" /></a> </p>
 
-- 📫 How to reach me **muz56565@gmail.com**
+- 📫  Reach me using **muz56565@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
