@@ -10,7 +10,7 @@ building user-friendly applications, learning new
 technologies, and contributing to impactful software 
 projects.</p>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-khan-uni&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil-khan-uni" /> </p>   
+<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-khan-uni&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil-khan-uni" /> </p>    -->
 
 
 
