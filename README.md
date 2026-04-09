@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm M. Muzammil Khan</h1>
-<h3 align="center">🎓 8th Semester Software Engineering Student at NUML, Islamabad</h3>
-<h3 align="center">💻 Full Stack Web Developer | 🧠 AI Enthusiast | 📱 Flutter & Android App Developer </h3>
+<!-- <h3 align="center">🎓 8th Semester Software Engineering Student at NUML, Islamabad</h3> -->
+<h3 align="center">💻 Full Stack Developer | 🧠 AI Enthusiast | 📱 Flutter & Android App Developer </h3>
 
 <p  align="center">Enthusiastic and highly motivated Software Engineer 
 with hands-on experience in Full-Stack Development, 
